@@ -15,6 +15,7 @@
 - [Githuber.cn星榜](https://githuber.cn/)
 - [DiyCode Github Ranking](https://www.diycode.cc/trends)
 - [JavaScript Rising Stars](https://risingstars.js.org)
+- [比项目较过去12个月在 GitHub 上增加的星标数](https://bestofjs.org/)
 - [通过GitHub平台了解编程语言的使用★★★](http://githut.info/)
 - [下载NPM包的统计信息](https://npm-stat.com/)
 - [比较npm包下载，计数随时间的变化](http://www.npmtrends.com/)
@@ -51,3 +52,4 @@
 - [GitHub，前端JavaScript框架](https://github.com/showcases/front-end-javascript-frameworks)
 - [foldnfly](https://www.foldnfly.com) 收集纸飞机折纸方法的网站，目前有40种纸飞机。
 - [aqicn](http://aqicn.org) 实时空气质量指数地图.
+- [AST explorer](https://github.com/fkling/astexplorer) 在编辑器中检查生成的AST。
